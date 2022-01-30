@@ -1,4 +1,8 @@
 # Ubuntu
+## set path
+```
+export PATH=$PATH:$(pwd)
+```
 
 ## brew
 
